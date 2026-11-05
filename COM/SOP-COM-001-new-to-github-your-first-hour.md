@@ -126,3 +126,5 @@ The newcomer: has two-factor sign-in on; sees the organisation under **Organizat
 | 2026-11-01 | Drafted for every organisation in the fleet: account (your own password), two-factor, invitation, five words, the reading room in a browser, a helper, the welcome deck | Alfred |
 | 2026-11-01 | Psanctuary's copy: teal badges; the reading room, public room and profile addresses filled in | Alfred (FortunaTradesARB session) |
 | 2026-11-02 | *Later, on a Mac: hidden files*: ⌘⇧. shows `.git`, copying a folder copies where it pushes, check with `git remote -v` | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

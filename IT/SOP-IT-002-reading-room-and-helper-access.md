@@ -103,3 +103,5 @@ The member opens the page from their own account; the helper's read test passes;
 | 2026-10-31 | Filled in for Psanctuary: the room, the team, the public room and its Pages address, the procedures' public copy, the three allowlist syncs | Alfred (FortunaTradesARB session) |
 | 2026-11-01 | Lucid pass: Lucide icons, the route drawn in Mermaid; links to SOP-OPS-003 (the tripwires) and SOP-GOV-002 (teams, base permission none); new readers start at SOP-COM-001 | Alfred |
 | 2026-11-01 | Psanctuary's copy rebuilt on the lucid template: teal badges, the addresses filled in again, the state read from GitHub (rooms and readers team live, base permission none, deploy keys pending) | Alfred (FortunaTradesARB session) |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

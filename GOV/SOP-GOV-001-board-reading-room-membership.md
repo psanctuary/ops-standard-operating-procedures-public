@@ -114,3 +114,5 @@ With the organisation's base permission at **No permission** (SOP-GOV-002), this
 | 2026-10-31 | Filled in for Psanctuary: `psanctuary`, a `board` team still to create, a proposed committee list and inbox for the founders to confirm | Alfred (FortunaTradesARB session) |
 | 2026-11-01 | Lucid pass: Lucide icons, the order of hands in Mermaid; base permission none (SOP-GOV-002) makes the board team the true list | Alfred |
 | 2026-11-01 | Psanctuary's copy rebuilt on the lucid template, its fill-in box carried over; base permission now none (read from GitHub), `readers` live, `board` still to create | Alfred (FortunaTradesARB session) |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->
